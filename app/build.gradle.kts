@@ -17,7 +17,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.droid.dolphy"
+        applicationId = "com.gunzdroid.app"
         minSdk = 26
         targetSdk = 36
         versionCode = 27
