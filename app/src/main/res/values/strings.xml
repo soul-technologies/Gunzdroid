@@ -32,7 +32,7 @@
     <string name="ppreview_size_bytes">%1$d B</string>
     <string name="ble_plugin_modes">Plugins</string>
 
-    <string name="app_name">Dolphy</string>
+    <string name="app_name">Gunzdroid</string>
 
 
     <string name="nav_bluetooth">Bluetooth</string>
@@ -613,7 +613,7 @@
     <string name="zero_u2f_not_supported">U2F is not supported in Android version</string>
 
 
-    <string name="splash_app_name">Dolphy</string>
+    <string name="splash_app_name">Gunzdroid</string>
 
 
     <string name="ble_smart_home">BLE Smart Home</string>
